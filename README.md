@@ -1,4 +1,6 @@
-create-react-app 创建的 react 18 项目，实现 qiankun demo
+create-react-app 创建的 react 18 项目
+
+简单实现 qiankun demo
 
 ```
 cd my-app
